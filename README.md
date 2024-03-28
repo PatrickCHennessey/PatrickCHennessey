@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on: **Full Stack Development**
 
 - 🌱 I’m currently learning:
-- 1. Full-Stack Development: **https://www.udemy.com/course-dashboard-redirect/?course_id=1565838**
-- 2. R: **https://www.udemy.com/course/r-programming/?couponCode=GENAISALE24**
-- 3. Microsoft Power BI: **https://www.udemy.com/course/microsoft-power-bi-portfolio-in-a-day/?couponCode=GENAISALE24**
+- 1. **Full-Stack Development**: **https://www.udemy.com/course-dashboard-redirect/?course_id=1565838**
+- 2. **R**: **https://www.udemy.com/course/r-programming/?couponCode=GENAISALE24**
+- 3. **Microsoft Power BI**: **https://www.udemy.com/course/microsoft-power-bi-portfolio-in-a-day/?couponCode=GENAISALE24**
 
 - 👯 I’m looking to collaborate on: **Data Analytics**
 
