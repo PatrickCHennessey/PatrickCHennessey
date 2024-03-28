@@ -5,22 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickchennessey" alt="patrickchennessey" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on: **Full Stack Development**
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
 - **https://www.udemy.com/course-dashboard-redirect/?course_id=1565838**
 - **https://www.udemy.com/course/r-programming/?couponCode=GENAISALE24**
 - **https://www.udemy.com/course/microsoft-power-bi-portfolio-in-a-day/?couponCode=GENAISALE24**
 
-- 👯 I’m looking to collaborate on **Data Analytics**
+- 👯 I’m looking to collaborate on: **Data Analytics**
 
-- 🤝 I’m looking for help with **Data Visualization**
+- 🤝 I’m looking for help with: **Data Visualization**
 
-- 👨‍💻 All of my projects are available at [github.com/patrickchennessey](github.com/patrickchennessey)
+- 👨‍💻 All of my projects are available at: [github.com/patrickchennessey](github.com/patrickchennessey)
 
-- 💬 Ask me about **Python, SQL, Power BI**
+- 💬 Ask me about: **Python, SQL, Power BI**
 
-- 📫 How to reach me **patrick.c.hennessey@gmail.com**
+- 📫 How to reach me: **patrick.c.hennessey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
