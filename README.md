@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **https://www.udemy.com/course-dashboard-redirect/?course_id=1565838**
+- 🌱 I’m currently learning **https://www.udemy.com/course-dashboard-redirect/?course_id=1565838**, **https://www.udemy.com/course/r-programming/?couponCode=GENAISALE24**, **https://www.udemy.com/course/microsoft-power-bi-portfolio-in-a-day/?couponCode=GENAISALE24**
 
 - 👯 I’m looking to collaborate on **Data Analytics**
 
