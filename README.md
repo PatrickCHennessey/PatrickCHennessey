@@ -11,9 +11,9 @@
 - 1. **Full-Stack Development**: **https://www.udemy.com/course-dashboard-redirect/?course_id=1565838**
 - 2. **R**: **https://www.udemy.com/course/r-programming/?couponCode=GENAISALE24**
 - 3. **Microsoft Power BI**: **https://www.udemy.com/course/microsoft-power-bi-portfolio-in-a-day/?couponCode=GENAISALE24**
-  4. **SQL**: **https://www.udemy.com/course/the-complete-sql-course-2021-learn-by-doing/learn/lecture/24067936?start=0#overview**
-  5. **VBA**: **https://www.udemy.com/course/excel-vba-and-macros-course/learn/lecture/9059062?start=135#overview**
-  6. **Python**: **https://www.udemy.com/course/data-analytics-projects-python/learn/lecture/22416460?start=0#overview**
+-  4. **SQL**: **https://www.udemy.com/course/the-complete-sql-course-2021-learn-by-doing/learn/lecture/24067936?start=0#overview**
+-  5. **VBA**: **https://www.udemy.com/course/excel-vba-and-macros-course/learn/lecture/9059062?start=135#overview**
+-  6. **Python**: **https://www.udemy.com/course/data-analytics-projects-python/learn/lecture/22416460?start=0#overview**
 
 - 👯 I’m looking to collaborate on: **Data Analytics**
 
